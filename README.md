@@ -2,7 +2,7 @@
 
 ## HttpServer.java
 
-### Servidor HTTP funcional, feito na mão, que:
+### Servidor HTTP funcional, desenvolvido manualmente, que:
 
 - Abre uma porta TCP (ServerSocket)
 - Escuta conexões de rede
