@@ -1,4 +1,4 @@
-# Api_Java
+# Apis_Java
 
 Este projeto tem como objetivo estudar o funcionamento do protocolo HTTP
 e a criação de uma API sem frameworks, comparando duas abordagens:
