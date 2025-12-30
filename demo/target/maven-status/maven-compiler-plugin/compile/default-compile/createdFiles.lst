@@ -1,2 +1,3 @@
+com\api\httpserver\HttpServerNativo.class
 com\api\httpserver\HttpServer.class
-com\api\httpserver\HttpServerBiblioteca.class
+com\api\httpserver\HttpServerNativo$MeuHandler.class
